@@ -1,0 +1,7 @@
+export const ADD_USER = "ADD_USER";
+export const ADD_USER_SUCCESS = "ADD_USER_SUCCESS";
+export const ADD_USER_ERROR = "ADD_USER_ERROR";
+
+export const VALIDATE_USER = "ADD_USER";
+export const VALIDATE_USER_SUCCESS = "ADD_USER_SUCCESS";
+export const VALIDATE_USER_ERROR = "ADD_USER_ERROR";
